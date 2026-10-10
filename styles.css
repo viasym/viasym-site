@@ -21,7 +21,7 @@ header.top{display:flex;justify-content:space-between;align-items:center;padding
 .toplink:hover{color:var(--ink)}
 
 /* Opening: large, light headline on a neutral canvas. */
-.hero{padding-top:clamp(56px,9vw,120px);padding-bottom:clamp(56px,7vw,96px)}
+.hero{padding-top:clamp(40px,6vw,80px);padding-bottom:clamp(56px,7vw,96px)}
 .hero h1{font-weight:300;font-size:clamp(46px,8.2vw,112px);line-height:1;letter-spacing:-0.045em;max-width:13ch}
 .hero p{margin-top:36px;font-size:clamp(19px,1.7vw,22px);color:var(--muted);max-width:44ch;line-height:1.5}
 .cta{margin-top:44px;display:flex;flex-wrap:wrap;align-items:center;gap:18px 28px}
