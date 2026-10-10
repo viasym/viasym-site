@@ -304,3 +304,7 @@ footer{padding-top:28px;padding-bottom:40px;font-size:14px;color:var(--faint)}
   .steps li:nth-child(n)::after{animation:none!important;background:var(--line);border-color:var(--line)}
   .steps .end{animation:none;background:var(--line)}
 }
+
+/* Call to action: button and status read as one line at one text size. */
+.btn{font-size:16px;padding:13px 22px}
+.status{font-size:16px;gap:11px;color:var(--ink)}
